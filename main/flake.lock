@@ -55,11 +55,11 @@
       },
       "locked": {
         "dir": "v1_1_1",
-        "lastModified": 1667329917,
-        "narHash": "sha256-zq297Vwa6+XgchHObeWMyD7MSiiuEkN1hoCjjIj4IkY=",
+        "lastModified": 1667334781,
+        "narHash": "sha256-SCsoEyN+aoXxFH3axh0e6rqxLNaag21YU2zT1FoIows=",
         "owner": "nim-nix-pkgs",
         "repo": "semver",
-        "rev": "2dd5356fd9b7b96b5c3c46cd4c8626977335ed1d",
+        "rev": "ba0c4c3cda7bbd467827e7231f895222969cdf41",
         "type": "github"
       },
       "original": {
