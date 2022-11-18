@@ -220,11 +220,11 @@
       },
       "locked": {
         "dir": "v1_1_1",
-        "lastModified": 1668754796,
-        "narHash": "sha256-P4j1MNjOW+cNzuyhaiYFWmgiPNvtY9d+22CZ054zFSU=",
+        "lastModified": 1668776109,
+        "narHash": "sha256-Ez5IzXi3Xyf42hLCF7f6FCPYsp+6wDcp1tb18RElrZs=",
         "owner": "nim-nix-pkgs",
         "repo": "semver",
-        "rev": "f9f190a045bc7cdb4ff104cba13ff14f84b4a510",
+        "rev": "65ec6d6d6f6c91d2bf4c2fab61ff7cf7226159d3",
         "type": "github"
       },
       "original": {
